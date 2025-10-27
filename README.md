@@ -10,6 +10,7 @@ Organizar e compartilhar exercícios, projetos acadêmicos e experimentos realiz
 ---
 
 ## 🛠️ Tecnologias Utilizadas
+
 - SQL (Structured Query Language) – MySQL, PostgreSQL, SQLite
 - MySQL Workbench – Ferramenta de modelagem e administração
 
