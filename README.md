@@ -4,9 +4,14 @@ Este repositório contém códigos, scripts e projetos desenvolvidos para estudo
 
 ---
 
+## 🎯 Objetivo
+Organizar e compartilhar exercícios, projetos acadêmicos e experimentos realizados durante o aprendizado de Banco de Dados, com o intuito de servir como referência para estudantes, professores e profissionais da área.
+
+---
+
 ## 🛠️ Tecnologias Utilizadas
 - SQL (Structured Query Language) – MySQL, PostgreSQL, SQLite
 - MySQL Workbench – Ferramenta de modelagem e administração
 
----
+
 
